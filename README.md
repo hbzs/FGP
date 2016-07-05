@@ -6,13 +6,13 @@
 会在[Wiki](https://github.com/hbzs/FGP/wiki/%E9%A6%96%E9%A1%B5)记录自己的计划，以及计划的完成程度
 
 ## Github 工作状态
-![随时为弃坑做准备😩](./resource/new1.png)
-![尽量完成吧，舍不得弃了😌](./resource/new2.png)
-![填坑成功，泪流满面😎](./resource/new3.png)
-![随时可能不翻了😩](./resource/trans1.png)
-![感觉会翻完耶😌](./resource/trans2.png)
-![译完打卡😎](./resource/trans3.png)
-![学渣乱翻，仅为自用🙃](./resource/transinfo.png)
-![更新吗？不更新吗？😩](./resource/update1.png)
-![更新吧，反正也更了这么多了😌](./resource/update2.png)
-![更完了😎](./resource/update3.png)
+![随时为弃坑做准备😩](https://github.com/hbzs/FGP/raw/master/resource/new1.png)
+![尽量完成吧，舍不得弃了😌](https://github.com/hbzs/FGP/raw/master/resource/new2.png)
+![填坑成功，泪流满面😎](https://github.com/hbzs/FGP/raw/master/resource/new3.png)
+![随时可能不翻了😩](https://github.com/hbzs/FGP/raw/master/resource/trans1.png)
+![感觉会翻完耶😌](https://github.com/hbzs/FGP/raw/master/resource/trans2.png)
+![译完打卡😎](https://github.com/hbzs/FGP/raw/master/resource/trans3.png)
+![学渣乱翻，仅为自用🙃](https://github.com/hbzs/FGP/raw/master/resource/transinfo.png)
+![更新吗？不更新吗？😩](https://github.com/hbzs/FGP/raw/master/resource/update1.png)
+![更新吧，反正也更了这么多了😌](https://github.com/hbzs/FGP/raw/master/resource/update2.png)
+![更完了😎](https://github.com/hbzs/FGP/raw/master/resource/update3.png)
