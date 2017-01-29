@@ -16,8 +16,3 @@
 ![更新吗？不更新吗？😩](https://github.com/hbzs/FGP/raw/master/resource/update1.png)
 ![更新吧，反正也更了这么多了😌](https://github.com/hbzs/FGP/raw/master/resource/update2.png)
 ![更完了😎](https://github.com/hbzs/FGP/raw/master/resource/update3.png)
-
-nuhao$\sum$ma
-H~2~O
-X^2^
-==key==
